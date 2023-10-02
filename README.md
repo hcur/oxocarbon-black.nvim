@@ -1,5 +1,4 @@
-*Note: This is my fork of oxocarbon.nvim. The only thing changed in the code is the `base00` value, which switched from `#161616` to `#000000`. This should make the background---and only
-the background---a darker black. (oxocarbon wasn't dark enough for my tastes on my screen). Nothing else has changed. All credit due to the nyoom-engineering team.*
+*Note: This is my fork of oxocarbon.nvim. The only thing changed in the code is the `base00` value, which switched from `#161616` to `#000000`. This should make the background---and only the background---a darker black. (oxocarbon by default wasn't dark enough for my tastes on my screen). Nothing else has changed. The colorscheme name within nvim is still `oxocarbon`, but if there is any interest in this being changed to allow for this and the original to be installed together let me know or open a PR. All credit due to the nyoom-engineering team.*
 
 # oxocarbon.nvim
 
