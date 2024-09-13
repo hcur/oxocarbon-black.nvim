@@ -175,6 +175,7 @@
 
 ;; lsp
 
+(custom-set-face! :LspCodeLens [] {:fg oxocarbon.none :bg oxocarbon.base03})
 (custom-set-face! :LspReferenceText [] {:fg oxocarbon.none :bg oxocarbon.base03})
 (custom-set-face! :LspReferenceread [] {:fg oxocarbon.none :bg oxocarbon.base03})
 (custom-set-face! :LspReferenceWrite [] {:fg oxocarbon.none :bg oxocarbon.base03})
@@ -288,7 +289,9 @@
 ;; window
 
 (custom-set-face! :Title [] {:fg oxocarbon.base04 :bg oxocarbon.none})
+;; VertSplit has been replaced by `WinSpeperator` in nvim 0.10
 (custom-set-face! :VertSplit [] {:fg oxocarbon.base01 :bg oxocarbon.base00})
+(custom-set-face! :WinSeparator [] {:fg oxocarbon.base01 :bg oxocarbon.base00})
 
 ;; regular syntax
 
